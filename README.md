@@ -1,7 +1,6 @@
 # Halo, I'm timplexz 👋
 
 
-## 📚 Proyek-proyek saya
 # WELCOME To Jawa Pride Airdrop
 ![GIF Pertama](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif | width=300) 
 ![GIF Kedua](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif | width=300)
@@ -16,9 +15,12 @@
 - For me [TG](https://t.me/timplexzz) and [X](https://t.me/timplexzz)
 
 - - - - - - - - -
-<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="250" height="250"> 
-<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/2in1.gif" alt="-" width="250" height="250"> 
-<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="250" height="250">
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="250" height="250">
+  <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/2in1.gif" alt="-" width="250" height="250">
+  <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="250" height="250">
+</div>
 
 - - - - - - - - -
 
