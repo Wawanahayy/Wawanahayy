@@ -26,8 +26,8 @@
   <span style="margin-left: 20px;"></span>| 
   <span style="margin-left: 20px;"></span><a href="https://t.me/AirdropJPdiskusi">DISCUSS</a> 
   <span style="margin-left: 20px;"></span>| 
-  <span style="margin-left: 20px;"></span><a href="https://x.com/JAWAPRIDE_ID">TWITTER/X</a>
-</p> |
+  <span style="margin-left: 20px;"></span><a href="https://x.com/JAWAPRIDE_ID">TWITTER/X</a> |
+</p> 
 
 --------------
 
