@@ -18,7 +18,7 @@
 
 <p align="left">
   <img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="50" />
-  <a href="https://t.me/AirdropJP_JawaPride">TELEGRAM CHANNEL</a> |
+            <a href="https://t.me/AirdropJP_JawaPride">TELEGRAM CHANNEL</a> |
   <a href="https://linktr.ee/Jawa_Pride_ID">WEBSITE</a> |
   <a href="https://t.me/AirdropJPdiskusi">DISCUSS</a> |
   <a href="https://x.com/JAWAPRIDE_ID">TWITTER/X</a>
