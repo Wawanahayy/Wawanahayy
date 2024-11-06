@@ -1,4 +1,4 @@
-# Halo, I'm timplexz 👋
+# Hallo, I'm timplexz 👋
 
 
 
