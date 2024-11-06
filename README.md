@@ -18,8 +18,10 @@
 
 - - - - - - - - -
 
-# JawaPrideAirdrop JOIN CHANNEL 
-<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="10" height="10">
+# JawaPrideAirdrop JOIN CHANNEL <div style="display: inline-flex; align-items: center;">
+  <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="20" height="20">
+</div>
+
 
 - [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
 - [WEBSITE](https://linktr.ee/Jawa_Pride_ID)
