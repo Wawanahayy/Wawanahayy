@@ -9,14 +9,16 @@ Saya seorang pengembang perangkat lunak yang sangat tertarik dengan dunia blockc
 
 ## 📚 Proyek-proyek saya
 - [JawaPride](https://github.com/Wawanahayy/JawaPride): Platform untuk menyalurkan airdrop dan hadiah lainnya.
-- [t3rn-executor](https://github.com/Wawanahayy/t3rn-executor): Eksekutor untuk transaksi blockchain otomatis.
+## 📦 Tentang JawaPrideAirdrop
+<small>
+    [JawaPrideAirdrop](https://github.com/Wawanahayy/JawaPrideAirdrop) adalah platform airdrop untuk ekosistem JawaPride, memungkinkan pengguna untuk mengikuti dan mengklaim hadiah secara otomatis.
+</small>
+
 
 ## 📫 Hubungi saya
-- Email: wawan@example.com
+- Telegram [@timplexz](t.me://timplexz)
 - Twitter: [@wawanahayy](https://twitter.com/wawanahayy)
 
-## 📈 Statistik GitHub saya
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wawanahayy&show_icons=true&count_private=true&hide=prs)
 
 ## 💬 Tanyakan kepada saya tentang
 - Pengembangan Blockchain
