@@ -4,13 +4,18 @@
 
 # WELCOME To Jawa Pride Airdrop
 
-<div style="display: flex;">
-  <img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="150" />
-  <img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="150" />
-  <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="150" height="150">
-  <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/2in1.gif" alt="-" width="150" height="150">
-  <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="150" height="150">
-</div>
+<p align="left">
+  <img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="50" style="margin-right: 500px;" />
+  <span style="margin-left: 500px;"></span>| 
+  <a href="https://t.me/AirdropJP_JawaPride">TELEGRAM CHANNEL</a>
+  <span style="margin-left: 20px;"></span>| 
+  <span style="margin-left: 20px;"></span><a href="https://linktr.ee/Jawa_Pride_ID">WEBSITE</a> 
+  <span style="margin-left: 20px;"></span>| 
+  <span style="margin-left: 20px;"></span><a href="https://t.me/AirdropJPdiskusi">DISCUSS</a> 
+  <span style="margin-left: 20px;"></span>| 
+  <span style="margin-left: 20px;"></span><a href="https://x.com/JAWAPRIDE_ID">TWITTER/X</a>
+</p>
+
 
 -----------------
 
