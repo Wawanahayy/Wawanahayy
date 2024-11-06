@@ -12,7 +12,7 @@
   <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="150" height="150">
 </div>
 
-
+------------
 
 # JawaPrideAirdrop JOIN CHANNEL <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="30" height="30">
 
@@ -23,7 +23,7 @@
   <a href="https://t.me/AirdropJPdiskusi">DISCUSS</a> |
   <a href="https://x.com/JAWAPRIDE_ID">TWITTER/X</a>
 </p>
-- - - - - - - - -
+
 
 
 ## 📫 Contact Me
