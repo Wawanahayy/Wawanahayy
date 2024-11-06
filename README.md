@@ -20,7 +20,7 @@
 [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride) | [WEBSITE](https://linktr.ee/Jawa_Pride_ID) | [DISCUSS](https://t.me/AirdropJPdiskusi) | [TWITTER/X](https://x.com/JAWAPRIDE_ID) | 
 - - - - - - - - -
 
-## 📫 Hubungi saya
+## 📫 Contact Me
 - [Telegram: @TIMPLEXZ](https://t.me/timplexzz)
 - [Twitter: @WAWANAHAYY](https://twitter.com/wawanahayy)
 
