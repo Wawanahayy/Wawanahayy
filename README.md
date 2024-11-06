@@ -1,18 +1,26 @@
-# Halo, saya Wawanahayy 👋
+# Halo, I'm timplexz 👋
 
-Saya seorang pengembang perangkat lunak yang sangat tertarik dengan dunia blockchain dan keuangan terdesentralisasi (DeFi). Saya senang berkolaborasi dalam proyek open-source dan berusaha membuat dunia digital yang lebih baik.
-
-## 🌱 Saat ini saya sedang mempelajari
-- DeFi dan Blockchain
-- Pemrograman Python dan JavaScript
-- Pengembangan dApps
 
 ## 📚 Proyek-proyek saya
-- [JawaPride](https://github.com/Wawanahayy/JawaPride): Platform untuk menyalurkan airdrop dan hadiah lainnya.
-## 📦 Tentang JawaPrideAirdrop
-<img src="https://raw.githubusercontent.com/Wawanahayy/JawaPrideAirdrop/refs/heads/main/README.md" width="300"/>
+# WELCOME To Jawa Pride Airdrop
+![GIF Pertama](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif | width=300) 
+![GIF Kedua](https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif | width=300)
 
+# JawaPrideAirdrop JOIN CHANNEL 
+<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="50" height="50">
 
+- [TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride)
+- [WEBSITE](https://linktr.ee/Jawa_Pride_ID)
+- [DISCUSS](https://t.me/AirdropJPdiskusi)
+- [TWITTER/X](https://x.com/JAWAPRIDE_ID)
+- For me [TG](https://t.me/timplexzz) and [X](https://t.me/timplexzz)
+
+- - - - - - - - -
+<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="250" height="250"> 
+<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/2in1.gif" alt="-" width="250" height="250"> 
+<img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="250" height="250">
+
+- - - - - - - - -
 
 
 ## 📫 Hubungi saya
@@ -20,7 +28,3 @@ Saya seorang pengembang perangkat lunak yang sangat tertarik dengan dunia blockc
 - Twitter: [@wawanahayy](https://twitter.com/wawanahayy)
 
 
-## 💬 Tanyakan kepada saya tentang
-- Pengembangan Blockchain
-- Keuangan Terdesentralisasi (DeFi)
-- Python dan JavaScript
