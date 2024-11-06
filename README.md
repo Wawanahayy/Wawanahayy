@@ -27,4 +27,4 @@
 
 
 ## 📚 LIST 
-[JawaPride-all.sh](https://github.com/Wawanahayy/JawaPride-all.sh) | [toneo](https://github.com/Wawanahayy/toneo) | [hana](https://github.com/Wawanahayy/hana) | [hemi](https://github.com/Wawanahayy/hemi) | [auto-transfer](https://github.com/Wawanahayy/auto-transfer) | [auto-bridge-t3rn](https://github.com/Wawanahayy/auto-bridge-t3rn) | [grass2](https://github.com/Wawanahayy/grass2) | [grass2](https://github.com/Wawanahayy/grass2)
+[JawaPride-all.sh](https://github.com/Wawanahayy/JawaPride-all.sh) | [toneo](https://github.com/Wawanahayy/toneo) | [hana](https://github.com/Wawanahayy/hana) | [hemi](https://github.com/Wawanahayy/hemi) | [auto-transfer](https://github.com/Wawanahayy/auto-transfer) | [auto-bridge-t3rn](https://github.com/Wawanahayy/auto-bridge-t3rn) | [grass2](https://github.com/Wawanahayy/grass2) |
