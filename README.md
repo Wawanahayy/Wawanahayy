@@ -3,8 +3,8 @@
 
 
 # WELCOME To Jawa Pride Airdrop
-<img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="300" />
-<img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="300" />
+<img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="100" />
+<img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="100" />
 
 # JawaPrideAirdrop JOIN CHANNEL 
 <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="50" height="50">
