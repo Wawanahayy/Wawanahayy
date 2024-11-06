@@ -10,7 +10,8 @@ Saya seorang pengembang perangkat lunak yang sangat tertarik dengan dunia blockc
 ## 📚 Proyek-proyek saya
 - [JawaPride](https://github.com/Wawanahayy/JawaPride): Platform untuk menyalurkan airdrop dan hadiah lainnya.
 ## 📦 Tentang JawaPrideAirdrop
-<img src="(https://raw.githubusercontent.com/Wawanahayy/JawaPrideAirdrop/refs/heads/main/README.md)" width="200"/>
+<img src="https://raw.githubusercontent.com/Wawanahayy/JawaPrideAirdrop/refs/heads/main/README.md" width="300"/>
+
 
 
 
