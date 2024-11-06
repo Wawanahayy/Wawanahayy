@@ -25,7 +25,7 @@
 - - - - - - - - -
 
 ## 📫 Hubungi saya
-- [Telegram: @timplexz](t.me:/timplexz)
-- [Twitter: @wawanahayy](https://twitter.com/wawanahayy)
+- [Telegram: @TIMPLEXZ](https://t.me/timplexzz)
+- [Twitter: @WAWANAHAYY](https://twitter.com/wawanahayy)
 
 
