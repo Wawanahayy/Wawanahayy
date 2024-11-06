@@ -16,11 +16,16 @@
 
 # JawaPrideAirdrop JOIN CHANNEL <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="30" height="30">
 
-<img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="50" style="margin-right: 50px;" />
-[TELEGRAM CHANNEL](https://t.me/AirdropJP_JawaPride) |  
-[WEBSITE](https://linktr.ee/Jawa_Pride_ID) |  
-[DISCUSS](https://t.me/AirdropJPdiskusi) |  
-[TWITTER/X](https://x.com/JAWAPRIDE_ID)
+<p align="left">
+  <img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="50" style="margin-right: 500px;" />
+  <a href="https://t.me/AirdropJP_JawaPride">TELEGRAM CHANNEL</a>
+  <span style="margin-left: 20px;"></span>| 
+  <span style="margin-left: 20px;"></span><a href="https://linktr.ee/Jawa_Pride_ID">WEBSITE</a> 
+  <span style="margin-left: 20px;"></span>| 
+  <span style="margin-left: 20px;"></span><a href="https://t.me/AirdropJPdiskusi">DISCUSS</a> 
+  <span style="margin-left: 20px;"></span>| 
+  <span style="margin-left: 20px;"></span><a href="https://x.com/JAWAPRIDE_ID">TWITTER/X</a>
+</p>
 
 
 
