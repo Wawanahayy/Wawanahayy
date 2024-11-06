@@ -26,9 +26,9 @@
   <span style="margin-left: 20px;"></span>| 
   <span style="margin-left: 20px;"></span><a href="https://t.me/AirdropJPdiskusi">DISCUSS</a> 
   <span style="margin-left: 20px;"></span>| 
-  <span style="margin-left: 20px;"></span><a href="https://x.com/JAWAPRIDE_ID">TWITTER/X</a> |||
+  <span style="margin-left: 20px;"></span><a href="https://x.com/JAWAPRIDE_ID">TWITTER/X</a>  <span style="margin-left: 500px;"></span>| |
   <img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="50" style="margin-right: 500px;" /> |
-  <span style="margin-left: 500px;"></span>| |
+
 </p> 
 
 --------------
