@@ -8,6 +8,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wawanahayy&layout=compact&theme=material-palenight&hide_border=true&card_width=300&langs_count=8" alt="GitHub Languages" />
 </p>
 
+# Selamat Datang di Profil GitHub Saya!
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/wawanahayy" alt="Profile Picture" width="50" style="border-radius: 50%; border: 5px solid; animation: colorChange 0.5s infinite; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
+</p>
+
+<style>
+  @keyframes colorChange {
+    0% { border-color: #ff7e5f; }
+    25% { border-color: #feb47b; }
+    50% { border-color: #4CAF50; }
+    75% { border-color: #00bcd4; }
+    100% { border-color: #ff6347; }
+  }
+</style>
+
+
 
 # WELCOME To Jawa Pride Airdrop
 
