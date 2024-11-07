@@ -8,21 +8,37 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wawanahayy&layout=compact&theme=material-palenight&hide_border=true&card_width=300&langs_count=8" alt="GitHub Languages" />
 </p>
 
-# Selamat Datang di Profil GitHub Saya!
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/wawanahayy" alt="Profile Picture" width="50" style="border-radius: 50%; border: 5px solid; animation: colorChange 0.5s infinite; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile Picture with Color Changing Border</title>
+  <style>
+    @keyframes colorChange {
+      0% { border-color: #ff7e5f; }
+      25% { border-color: #feb47b; }
+      50% { border-color: #4CAF50; }
+      75% { border-color: #00bcd4; }
+      100% { border-color: #ff6347; }
+    }
 
-<style>
-  @keyframes colorChange {
-    0% { border-color: #ff7e5f; }
-    25% { border-color: #feb47b; }
-    50% { border-color: #4CAF50; }
-    75% { border-color: #00bcd4; }
-    100% { border-color: #ff6347; }
-  }
-</style>
+    .profile-img {
+      border-radius: 50%;
+      border: 5px solid;
+      animation: colorChange 2s infinite;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    }
+  </style>
+</head>
+<body>
+  <div style="text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/wawanahayy" alt="Profile Picture" width="150" class="profile-img" />
+  </div>
+</body>
+</html>
+
 
 
 
