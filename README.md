@@ -6,7 +6,6 @@
   <img src="https://streak-stats.demolab.com?user=Wawanahayy&theme=material-palenight&hide_border=true&card_width=400" alt="Streak Stats" />
 
 
-.
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wawanahayy&layout=compact&theme=material-palenight&hide_border=true&card_width=400&langs_count=6" alt="GitHub Languages" />
