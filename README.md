@@ -23,13 +23,6 @@
       75% { border-color: #00bcd4; }
       100% { border-color: #ff6347; }
     }
-
-    .profile-img {
-      border-radius: 50%;
-      border: 5px solid;
-      animation: colorChange 2s infinite;
-      box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-    }
   </style>
 </head>
 <body>
