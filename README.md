@@ -1,6 +1,10 @@
 # Hallo, I'm timplexz 👋
 
 
+![Streak Stats](https://streak-stats.demolab.com?user=Wawanahayy&theme=material-palenight&hide_border=true&card_width=450)
+
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Wawanahayy&layout=compact&theme=material-palenight&hide_border=true)
+
 
 # WELCOME To Jawa Pride Airdrop
 
