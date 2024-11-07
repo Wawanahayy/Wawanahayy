@@ -10,7 +10,7 @@
 
 # WELCOME To Jawa Pride Airdrop
 
-<div style="display: flex; justify-content: center; gap: 10px; width: 100%; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 10px; width: 150%; align-items: center;">
   <img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="150" />
   <img src="https://github.com/Wawanahayy/JawaPrideAirdrop/raw/main/2in1.gif" width="150" />
   <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo.jpg" alt="-" width="150" height="150">
