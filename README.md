@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/98287702" alt="Profile Picture" width="100" />
+  <img src="https://avatars.githubusercontent.com/u/98287702" alt="Profile Picture" width="200" />
 </p>
 
 
