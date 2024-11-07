@@ -1,11 +1,11 @@
 # Hallo, I'm timplexz 👋
 
-
-
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/wawanahayy" alt="Profile Picture" width="150" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
+  <img src="https://streak-stats.demolab.com?user=Wawanahayy&theme=material-palenight&hide_border=true&card_width=300" alt="Streak Stats" style="margin-right: 100px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wawanahayy&layout=compact&theme=material-palenight&hide_border=true&card_width=300&langs_count=8" alt="GitHub Languages" />
 </p>
+
+
 
 
 
