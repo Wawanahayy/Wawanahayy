@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Wawanahayy&theme=material-palenight&hide_border=true&card_width=300" alt="Streak Stats" style="margin-right: 100px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wawanahayy&layout=compact&theme=material-palenight&hide_border=true&card_width=300&langs_count=7" alt="GitHub Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wawanahayy&layout=compact&theme=material-palenight&hide_border=true&card_width=300&langs_count=7.5" alt="GitHub Languages" />
 </p>
 
 
