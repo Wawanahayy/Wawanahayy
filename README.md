@@ -19,10 +19,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/98287702" alt="Profile Picture" width="100" />
-</p>
-
 -----------------
 
 # JawaPrideAirdrop JOIN CHANNEL <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="30" height="30">
