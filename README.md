@@ -42,7 +42,8 @@
 ## 📫 Contact Me
 - [Telegram: @TIMPLEXZ](https://t.me/timplexzz)
 - [Twitter: @WAWANAHAYY](https://twitter.com/wawanahayy)
-
+- Email: wawanpere1@gmail.com / wawanxkok1@gmail.com
+- Discord: timplexz#0 / timplexz
 ---------------
 
 ## 📚 LIST 
