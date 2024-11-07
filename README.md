@@ -7,6 +7,10 @@
 
 
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/wawanahayy" alt="Profile Picture" width="50" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
+</p>
+
 
 
 # WELCOME To Jawa Pride Airdrop
