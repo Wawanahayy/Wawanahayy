@@ -4,34 +4,8 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wawanahayy&theme=material-palenight&hide_border=true&card_width=300" alt="Streak Stats" style="margin-right: 100px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wawanahayy&layout=compact&theme=material-palenight&hide_border=true&card_width=300&langs_count=8" alt="GitHub Languages" />
+  <img src="https://avatars.githubusercontent.com/u/wawanahayy" alt="Profile Picture" width="150" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
 </p>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Profile Picture with Color Changing Border</title>
-  <style>
-    @keyframes colorChange {
-      0% { border-color: #ff7e5f; }
-      25% { border-color: #feb47b; }
-      50% { border-color: #4CAF50; }
-      75% { border-color: #00bcd4; }
-      100% { border-color: #ff6347; }
-    }
-  </style>
-</head>
-<body>
-  <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/wawanahayy" alt="Profile Picture" width="150" class="profile-img" />
-  </div>
-</body>
-</html>
-
 
 
 
