@@ -7,11 +7,6 @@
 
 
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/98287702" alt="Profile Picture" width="200" />
-</p>
-
-
 
 # WELCOME To Jawa Pride Airdrop
 
@@ -23,7 +18,9 @@
   <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/photo1.jpg" alt="-" width="150" height="150">
 </div>
 
-
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/98287702" alt="Profile Picture" width="200" />
+</p>
 -----------------
 
 # JawaPrideAirdrop JOIN CHANNEL <img src="https://github.com/Wawanahayy/Autonomys-Network-/blob/main/telegram.gif" alt="JOIN MY CHANNEL" width="30" height="30">
